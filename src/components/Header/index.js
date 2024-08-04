@@ -9,7 +9,7 @@ function Header() {
                 <a href="#">Contato</a>
             </nav>
         </header>
-    )
+    );
 }
 
 export default Header;
